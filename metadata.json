@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI",
+  "description": "Intelligent phishing email detection platform combining a deterministic local security rule engine with Google Gemma 4 contextual threat analysis and explainable risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
